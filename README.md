@@ -1,3 +1,4 @@
+web vnexpress.net
 Thread Group 1: Kịch bản cơ bản
 Số lượng người dùng (Threads): ~10
 Thời gian chạy (Loop Count): 5 lần lặp.
